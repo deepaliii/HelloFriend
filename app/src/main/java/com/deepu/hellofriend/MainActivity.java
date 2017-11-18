@@ -13,6 +13,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
+    //Thank me later :)
+
     @Override
     protected void onPause() {
         super.onPause();
